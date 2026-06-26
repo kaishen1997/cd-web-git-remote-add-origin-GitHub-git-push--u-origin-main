@@ -1,0 +1,77 @@
+{
+  "Index": {
+    "title": "工业精密 | 高精度砝码",
+    "description": "B2B 高精度 OIML 砝码和测量标准解决方案。",
+    "getStarted": "开始编辑",
+    "saveAndSee": "保存并立即查看更改。",
+    "deployNow": "立即部署",
+    "readDocs": "阅读文档"
+  },
+  "Navigation": {
+    "home": "首页",
+    "products": "产品",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "services": "服务政策"
+  },
+  "Products": {
+    "title": "精密砝码",
+    "description": "高精度 OIML R111-1 标准砝码。",
+    "specs": "规格参数",
+    "getQuote": "获取报价单",
+    "selectClass": "选择精度等级",
+    "selectWeight": "选择重量"
+  },
+  "About": {
+    "title": "关于我们",
+    "subtitle": "精准 · 标准 · 诚信",
+    "content": "Industrial Precision 专注于测量精度，为全球工业提供 OIML 认证的砝码。我们的制造过程将传统的冶金专业知识与现代校准技术相结合。",
+    "mission_title": "我们的使命",
+    "mission_text": "通过毫不妥协的精密工程，树立全球测量可靠性标准。",
+    "values_title": "核心价值",
+    "values": ["绝对精准", "卓越材质", "技术支持"],
+    "stats": {
+      "exp": "年行业经验",
+      "clients": "服务客户",
+      "tolerance": "最小公差"
+    }
+  },
+  "Policies": {
+    "shipping": {
+      "title": "配送政策",
+      "section1_title": "01 / 全球物流",
+      "section1_text": "我们通过 DHL、FedEx 和专业工业货运公司向全球发货。所有砝码均牢固包装在防震箱中，以确保运输过程中校准的完整性。",
+      "section2_title": "02 / 交货周期",
+      "section2_text": "标准产品在 3-5 个工作日内发货。需要重新校准证书的定制套装或高精度 E1 级砝码可能需要 10-14 个工作日。",
+      "section3_title": "03 / 海关与关税",
+      "section3_text": "收件人负责目的地国家适用的任何进口关税、税款或清关费用。"
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "section1_title": "01 / 数据收集",
+      "section1_text": "我们收集处理询价和订单所需的信息，包括公司名称、联系人和电子邮件地址。我们不会将这些数据出售或共享给第三方。",
+      "section2_title": "02 / 数据用途",
+      "section2_text": "您的数据仅用于技术沟通、报价单交付和订单履行。我们使用 Google Analytics 匿名监控网站性能。",
+      "section3_title": "03 / Cookies",
+      "section3_text": "本网站使用必要的 Cookie 来记录语言偏好，并通过 GA4 进行性能监控。"
+    },
+    "warranty": {
+      "title": "保修政策",
+      "section1_title": "01 / 保修范围",
+      "section1_text": "所有精密砝码均享有自交付之日起 12 个月的制造缺陷保修。这包括材质完整性和 OIML 允许偏差内的初始校准精度。",
+      "section2_title": "02 / 重新校准",
+      "section2_text": "建议每年进行定期校准。保修不涵盖因磨损、污染或操作不当导致的精度偏移。",
+      "section3_title": "03 / 索赔",
+      "section3_text": "保修索赔必须随附原始校准证书和任何明显缺陷的照片证据。"
+    }
+  },
+  "Contact": {
+    "title": "联系我们",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "message": "消息",
+      "submit": "提交"
+    }
+  }
+}

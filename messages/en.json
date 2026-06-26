@@ -1,0 +1,77 @@
+{
+  "Index": {
+    "title": "Industrial Precision | High-Precision Weights",
+    "description": "B2B solution for high-precision OIML weights and measurement standards.",
+    "getStarted": "Get started by editing",
+    "saveAndSee": "Save and see your changes instantly.",
+    "deployNow": "Deploy now",
+    "readDocs": "Read our docs"
+  },
+  "Navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "services": "Services"
+  },
+  "Products": {
+    "title": "Precision Weights",
+    "description": "High-precision OIML R111-1 compliant weights.",
+    "specs": "Specifications",
+    "getQuote": "Get Quote",
+    "selectClass": "Select Class",
+    "selectWeight": "Select Weight"
+  },
+  "About": {
+    "title": "About Us",
+    "subtitle": "Precision. Standards. Integrity.",
+    "content": "Founded with a singular focus on measurement accuracy, Industrial Precision provides OIML-certified weights for global industries. Our manufacturing process combines traditional metallurgical expertise with modern calibration technology.",
+    "mission_title": "Our Mission",
+    "mission_text": "To set the global standard for measurement reliability through uncompromising precision engineering.",
+    "values_title": "Core Values",
+    "values": ["Absolute Accuracy", "Material Excellence", "Technical Support"],
+    "stats": {
+      "exp": "Years Experience",
+      "clients": "Clients Served",
+      "tolerance": "Min Tolerance"
+    }
+  },
+  "Policies": {
+    "shipping": {
+      "title": "Shipping Policy",
+      "section1_title": "01 / Global Logistics",
+      "section1_text": "We ship worldwide via DHL, FedEx, and specialized industrial freight carriers. All weights are securely packed in shock-resistant cases to maintain calibration integrity during transit.",
+      "section2_title": "02 / Lead Times",
+      "section2_text": "Standard items ship within 3-5 business days. Custom sets or high-precision E1 class weights requiring fresh calibration certificates may take 10-14 business days.",
+      "section3_title": "03 / Customs & Duties",
+      "section3_text": "The recipient is responsible for any import duties, taxes, or customs clearance fees applicable in the destination country."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "section1_title": "01 / Data Collection",
+      "section1_text": "We collect information necessary to process RFQs and orders, including company name, contact person, and email address. We do not sell or share this data with third parties.",
+      "section2_title": "02 / Usage of Data",
+      "section2_text": "Your data is used exclusively for technical communication, quotation delivery, and order fulfillment. We use Google Analytics to monitor site performance anonymously.",
+      "section3_title": "03 / Cookies",
+      "section3_text": "This site uses essential cookies for language preferences and performance monitoring via GA4."
+    },
+    "warranty": {
+      "title": "Warranty Policy",
+      "section1_title": "01 / Coverage",
+      "section1_text": "All precision weights are guaranteed against manufacturing defects for a period of 12 months from the date of delivery. This includes material integrity and initial calibration accuracy within OIML tolerances.",
+      "section2_title": "02 / Recalibration",
+      "section2_text": "Periodic recalibration is recommended annually. The warranty does not cover shifts in accuracy due to wear, contamination, or improper handling.",
+      "section3_title": "03 / Claims",
+      "section3_text": "Warranty claims must be submitted with original calibration certificates and photographic evidence of any visible defects."
+    }
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Submit"
+    }
+  }
+}
